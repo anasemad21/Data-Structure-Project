@@ -18,6 +18,8 @@ clear borrower and borrow date and number of days to return of the book copy
 5.Library inventory لكل كتاب عرض عدد النسخ االجمالية وعدد المستعارة (جرد المكتبة)
 __________________________________________________________________________________________________________________________________________________
 #part2
+
+
 ![image](https://user-images.githubusercontent.com/61062282/187529052-f315f248-cd26-44bb-b4b6-4fdbd15d0f4e.png)
 ![image](https://user-images.githubusercontent.com/61062282/187529131-2211f1c2-6026-408c-9e22-10381529c45c.png)
 
